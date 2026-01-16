@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oz00be13Kog=",
+  "dgSpecHash": "FRPTwfJG2SM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\balogh.dominik\\Desktop\\NonVoid2person\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/dani/Desktop/Github/NonVoid2person/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/dani/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.22/microsoft.netcore.app.host.linux-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
