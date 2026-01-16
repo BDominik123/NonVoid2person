@@ -53,8 +53,19 @@
         public string FortuneCookie()
         {
             int num = new Random().Next(0, 5);
-            // TODO : Return fortune cookie response based on random number
-            throw new NotImplementedException();
+            switch (num)
+            {
+                case 0:
+                    return "Things will get stranger.";
+                case 1:
+                    return "You will have 11 years of bad luck.";
+                case 2:
+                    return "Are you willing to do it?";
+                case 3:
+                    return "Don't stay upside down for too much!";
+                case 4:
+                    return "Your story will nbe ever ending.";
+            }
         }
 
 
