@@ -9,8 +9,7 @@
         /// <returns>The square of num</returns>
         public int Square(int num)
         {
-            // TODO : Implement square calculation
-            throw new NotImplementedException();
+            return (int) Math.Pow(num, 2);
         }
 
 
