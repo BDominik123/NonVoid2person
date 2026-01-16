@@ -120,8 +120,14 @@
         /// <returns>The string "even" or the string "odd"</returns>
         public string EvenOdd(int num)
         {
-            return num % 2 == 0;
-        }
+            if (num%2 == 0) 
+            {
+                return "even";
+            } 
+            else 
+            {
+                return "odd";
+            }
 
 
         public static void Main(string[] args)
