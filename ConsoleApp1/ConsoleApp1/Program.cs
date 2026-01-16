@@ -56,15 +56,17 @@
             switch (num)
             {
                 case 0:
-                    return "Things will get stranger.";
+                    return "Your future looks bright";
                 case 1:
-                    return "You will have 11 years of bad luck.";
+                    return "I see love in your future";
                 case 2:
-                    return "Are you willing to do it?";
+                    return "Maybe you better stay home today";
                 case 3:
-                    return "Don't stay upside down for too much!";
+                    return "You will have fame and fortune";
                 case 4:
-                    return "Your story will nbe ever ending.";
+                    return "Happiness you will have";
+                default:
+                    return "nothing";
             }
         }
 
